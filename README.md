@@ -1,4 +1,4 @@
-# 🎥 YouTube Algorithm Series
+# 🎥 Algorithm Series
 
 Welcome to the official repository for the **YouTube Algorithm Series**, a 12-week journey through the most important algorithms in computer science and mathematics 🚀.
 
